@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby version '2.6.6'
 
-Things you may want to cover:
+App made for ror training
 
-* Ruby version
+Main gem:
+gem 'rails_admin'
+gem 'devise'
+gem 'cancancan'
+gem 'carrierwave'
+gem 'rails-i18n'
+gem 'rmagick'
+gem 'prawn-rails'
+gem 'gruff'
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+learning every day a little more...
